@@ -44,7 +44,7 @@ T=int(input("Ingrese el tiempo de instancia (dias) en el lugar: "))
 Dist2=Dist*2
 
 if T>7 and Dist2>800:
-    PT=((Dist2*0.70)
+    PT=(Dist2*0.70)
     print(PT)
 else:
     PT=((Dist*2)*280)
